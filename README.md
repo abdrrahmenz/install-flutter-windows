@@ -1,6 +1,6 @@
 # Flutter Installation Guide for Windows
 
-![Flutter Logo](https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png)
+[![Flutter](screenshots/flutter-logo.png)](screenshots/flutter-logo.png)
 
 ## System Requirements
 - Windows 10 or later (64-bit)
